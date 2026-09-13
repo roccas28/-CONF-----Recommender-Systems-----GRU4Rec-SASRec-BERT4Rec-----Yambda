@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+pyarrow
+fastparquet
+duckdb
+tensorflow
+tqdm
